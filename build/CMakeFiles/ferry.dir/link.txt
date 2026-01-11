@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ferry.dir/components/ferry.c.o -o /home/user/SO_projekt_prom/out/ferry  /home/user/SO_projekt_prom/out/libutils.a 

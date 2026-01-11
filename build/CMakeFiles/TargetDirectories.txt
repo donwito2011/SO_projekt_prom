@@ -1,0 +1,7 @@
+/home/user/SO_projekt_prom/build/CMakeFiles/utils.dir
+/home/user/SO_projekt_prom/build/CMakeFiles/master.dir
+/home/user/SO_projekt_prom/build/CMakeFiles/manager.dir
+/home/user/SO_projekt_prom/build/CMakeFiles/ferry.dir
+/home/user/SO_projekt_prom/build/CMakeFiles/passenger.dir
+/home/user/SO_projekt_prom/build/CMakeFiles/edit_cache.dir
+/home/user/SO_projekt_prom/build/CMakeFiles/rebuild_cache.dir

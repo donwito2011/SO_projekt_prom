@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/master.dir/master.c.o -o /home/user/SO_projekt_prom/out/master  /home/user/SO_projekt_prom/out/libutils.a 

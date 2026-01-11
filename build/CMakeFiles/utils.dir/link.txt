@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/user/SO_projekt_prom/out/libutils.a CMakeFiles/utils.dir/components/utils.c.o
+/usr/bin/ranlib /home/user/SO_projekt_prom/out/libutils.a

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/passenger.dir/components/passenger.c.o -o /home/user/SO_projekt_prom/out/passenger  /home/user/SO_projekt_prom/out/libutils.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/manager.dir/components/manager.c.o -o /home/user/SO_projekt_prom/out/manager  /home/user/SO_projekt_prom/out/libutils.a 
